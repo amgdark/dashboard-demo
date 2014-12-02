@@ -7,7 +7,7 @@ Sources for the official [Vaadin](https://vaadin.com) demo application: http://d
 
 Running the App
 ==
-Run the Maven 'install' target and deploy the resulting WAR file to your Java application server.
+Run the Maven 'install' target and deploy the resulting WAR file to your Java applicaton server.
 
 *Note*: You need a [Rotten Tomatoes API key](http://developer.rottentomatoes.com) and a connection to the internet to run the app. Insert your own API key here: [DummyDataProvider.java#L122](https://github.com/vaadin/dashboard-demo/blob/master/src/main/java/com/vaadin/demo/dashboard/data/dummy/DummyDataProvider.java#L122)
 
